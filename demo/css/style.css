@@ -1,0 +1,19 @@
+body {
+	font-family: Helvetica, Arial, Sans-Serif;
+	background-color: white;
+	font-size: 18px;
+	background-color: #bbaabb;
+}
+
+#container {
+	margin: 18% auto;
+	padding:0;
+	width: 400px;
+}
+
+p {
+	height: 52px;
+	line-height: 52px;
+	font-size: 2.6em;
+	font-weight: bold;
+}
